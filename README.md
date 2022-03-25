@@ -35,4 +35,7 @@ await paginator.start(ctx)
 `invalid_user_function` = The function that will be called when another user tries to use the paginator. By default it will show an embed unless any function is specified.[type `function`]
 \
 
-##Useful Links:
+## Useful Links:
+**[WEBSITE](https://zealtyro.com)**
+**[YOUTUBE](https://youtube.com/ZealTyro)**
+**[TWITTER](https://twitter.com/MahediZaber)
