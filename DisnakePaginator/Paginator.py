@@ -4,7 +4,7 @@ async def dummy_response(interaction):
     embed = disnake.Embed(description="Sorry, the command was executed by another user")
     await interaction.response.send_message(embed=embed,  ephemeral=True)
 
-class DisnakePaginator:
+class Create:
     def __init__(
             self,
             segments,
