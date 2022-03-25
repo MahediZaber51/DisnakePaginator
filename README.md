@@ -36,6 +36,6 @@ await paginator.start(ctx)
 \
 
 ## Useful Links:
-**[WEBSITE](https://zealtyro.com)**
-**[YOUTUBE](https://youtube.com/ZealTyro)**
-**[TWITTER](https://twitter.com/MahediZaber)
+**[WEBSITE](https://zealtyro.com)**\
+**[YOUTUBE](https://youtube.com/ZealTyro)**\
+**[TWITTER](https://twitter.com/MahediZaber)**\
