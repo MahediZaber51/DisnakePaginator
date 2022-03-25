@@ -33,9 +33,7 @@ await paginator.start(ctx)
 `button_style` = The style of the buttons on the paginator [type: `disnake.ButtonStyle`]\
 \
 `invalid_user_function` = The function that will be called when another user tries to use the paginator. By default it will show an embed unless any function is specified.[type `function`]
-\
-
 ## Useful Links:
 **[WEBSITE](https://zealtyro.com)**\
 **[YOUTUBE](https://youtube.com/ZealTyro)**\
-**[TWITTER](https://twitter.com/MahediZaber)**\
+**[TWITTER](https://twitter.com/MahediZaber)**
