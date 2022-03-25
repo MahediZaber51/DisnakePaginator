@@ -1,6 +1,6 @@
 import disnake
 
-async def dummy_response(interaction):
+async def invalid_user_response(interaction):
     embed = disnake.Embed(description="Sorry, the command was executed by another user")
     await interaction.response.send_message(embed=embed,  ephemeral=True)
 
@@ -15,7 +15,7 @@ class Create:
             target_page=1,
             timeout=300,
             button_style=disnake.ButtonStyle.gray,
-            invalid_user_function=dummy_response,
+            invalid_user_function=invalid_user_response,
         ):
         self.embeds = []
         self.current_page = target_page
