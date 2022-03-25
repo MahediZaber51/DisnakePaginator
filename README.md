@@ -1,17 +1,17 @@
-# DisnakePaginator
+# EzDisnakePaginator
 A package containing easy paginator for disnake
 
 ## Examples
 Creating a Paginator without embeds:
 ```py
-paginator = DisnakePaginator.Create(title="Easy Disnake Paginator", segments=["1st message", "2nd messagge"], color=0x00ff00)
+paginator = EzDisnakePaginator.Create(title="Easy Disnake Paginator", segments=["1st message", "2nd messagge"], color=0x00ff00)
 await paginator.start(ctx)
 
 ```
 
 Creating a Paginator with embeds
 ```py
-paginator = DisnakePaginator.Create(title="Easy Disnake Paginator", segments=[embed1, embed2], color=0x00ff00)
+paginator = EzDisnakePaginator.Create(title="Easy Disnake Paginator", segments=[embed1, embed2], color=0x00ff00)
 await paginator.start(ctx)
 ```
 
