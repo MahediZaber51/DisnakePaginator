@@ -1,6 +1,12 @@
 # Easy Disnake Paginator
 A package containing easy paginator for disnake
 
+## Getting Started
+install the python package to get started by:
+```py
+pip install EasyDisnakePaginator
+```
+
 ## Examples
 Creating a Paginator without embeds:
 ```py
