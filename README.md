@@ -1,4 +1,4 @@
-# DisnakePaginator
+# Easy Disnake Paginator
 A package containing easy paginator for disnake
 
 ## Examples
